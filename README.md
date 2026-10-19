@@ -114,17 +114,6 @@ I plan to build more projects that strengthen my programming fundamentals and he
 
 ---
 
-## 🌱 Goals I'm Working Toward
-
-- [ ] Improve Java and DSA problem-solving.
-- [ ] Build and publish practical web projects.
-- [ ] Strengthen SQL and DBMS fundamentals.
-- [ ] Write clean, well-documented code.
-- [ ] Make meaningful open-source contributions.
-- [ ] Prepare for Software Engineer and Java Developer roles.
-
----
-
 ## 🤎 Let's Connect
 
 <div align="center">
