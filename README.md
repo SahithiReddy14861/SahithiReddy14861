@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:344E41,50:879A76,100:F5F1E8&text=Sahithi%20Reddy&fontSize=48&fontColor:FFFFFF&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Sahithi Reddy sage green banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:344E41,50:879A76,100:F5F1E8&text=Sahithi%20Reddy&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Sahithi Reddy sage green banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=526B50&center=true&vCenter=true&width=600&lines=Hello%2C+welcome+to+my+corner+of+GitHub!;Learning+Java+one+concept+at+a+time;Building+projects+and+solving+problems;Growing+through+curiosity+and+consistency" alt="Animated introduction"/>
 
@@ -80,7 +80,7 @@ A personal web application concept for saving and organizing links to articles, 
 
 **Learning goals:** DOM manipulation, browser storage, search and filtering, and building a practical user interface.
 
-> Status: Update this section as features are implemented. Add a repository and live demo when available.
+> **Status:** Planned project — features are not yet presented as completed.
 
 ### 🌱 Future Builds
 
@@ -90,14 +90,12 @@ I plan to build more projects that strengthen my programming fundamentals and he
 
 ## 📚 Learning & Certifications
 
-Add only credentials you have actually earned.
-
 - Java Programming — CodeTantra
 - Java Full Stack Developer — EduSkills
 - Responsive Web Design — freeCodeCamp
 - Prompt Engineering — SoloLearn
 - AI/ML Virtual Internship — EduSkills
-- NPTEL — Add your exact completed course title
+- NPTEL — Add the exact course title when listing a completed certification.
 
 ---
 
@@ -105,13 +103,13 @@ Add only credentials you have actually earned.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F5F1E8&title_color=344E41&icon_color=879A76&text_color=526B50&ring_color=879A76" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SahithiReddy14861&show_icons=true&hide_border=true&bg_color=F5F1E8&title_color=344E41&icon_color=879A76&text_color=526B50&ring_color=879A76" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F5F1E8&title_color=344E41&text_color=526B50" height="165" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahithiReddy14861&layout=compact&hide_border=true&bg_color=F5F1E8&title_color=344E41&text_color=526B50" height="165" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=F5F1E8&ring=879A76&fire=526B50&currStreakLabel=344E41&sideLabels=526B50&currStreakNum=344E41&sideNums=344E41&dates=879A76" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=SahithiReddy14861&hide_border=true&background=F5F1E8&ring=879A76&fire=526B50&currStreakLabel=344E41&sideLabels=526B50&currStreakNum=344E41&sideNums=344E41&dates=879A76" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -136,7 +134,7 @@ Add only credentials you have actually earned.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-526B50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SahithiReddy14861">
 <img src="https://img.shields.io/badge/GitHub-My%20Profile-344E41?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
