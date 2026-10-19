@@ -95,7 +95,6 @@ I plan to build more projects that strengthen my programming fundamentals and he
 - Responsive Web Design — freeCodeCamp
 - Prompt Engineering — SoloLearn
 - AI/ML Virtual Internship — EduSkills
-- NPTEL — Add the exact course title when listing a completed certification.
 
 ---
 
