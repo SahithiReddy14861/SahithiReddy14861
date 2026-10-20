@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Focus-Java%20%26%20DSA-879A76?style=for-the-badge" alt="Java and DSA"/>
 <img src="https://img.shields.io/badge/Always-Learning-344E41?style=for-the-badge" alt="Always learning"/>
 
-### 🌱 Growing my skills, one project at a time.
+###  Growing my skills, one project at a time.
 
 </div>
 
@@ -98,7 +98,7 @@ I plan to build more projects that strengthen my programming fundamentals and he
 
 ---
 
-## 📊 My GitHub Garden
+## 📊 My GitHub
 
 <div align="center">
 
